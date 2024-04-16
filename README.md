@@ -1,2 +1,1 @@
-# cpp-pro
-My Cpp Project Memory
+This is Baccarat Game built with C++ Language
